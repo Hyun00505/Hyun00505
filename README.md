@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:151515&height=210&section=header&text=HYUNBIN%20KIM&fontSize=58&fontColor=ffffff&fontAlignY=42" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=210&section=header&text=HYUNBIN%20KIM&fontSize=58&fontColor=ffffff&fontAlignY=42" />
 
 <br><br>
 
 ### AI BACKEND ENGINEER · LLM BUILDER  
 **I turn models into products.**
 
-<br><br><br>
+<br><br>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2800&color=FFFFFF&center=true&vCenter=true&width=520&lines=I+fine-tune+LLMs;I+deploy+them;I+run+them+in+production" />
+</p>
 
 </div>
 
@@ -15,19 +19,17 @@
 
 <div align="center">
 
-I fine-tune LLMs.  
-I deploy them.  
-I run them in production.
+I design end-to-end AI systems.  
+From fine-tuning to inference, from API to production.
 
 <br>
 
 Background in Creative Writing and Linguistics.  
-I design end-to-end AI systems  
-that understand language beyond tokens.
+Focused on building AI systems that understand language, not just tokens.
 
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
 ---
 
@@ -47,42 +49,39 @@ that understand language beyond tokens.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bunhine0452&repo=agent&theme=dark&bg_color=050505&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bunhine0452&repo=agent&theme=dark&hide_border=true" />
 
-<br><br><br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bunhine0452&repo=pressureproject&theme=dark&bg_color=050505&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bunhine0452&repo=pressureproject&theme=dark&hide_border=true" />
 
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
 ---
 
 ## EXPERIENCE
 
-- End-to-end LLM pipelines  
-  from fine-tuning to inference and deployment
-
+- End-to-end LLM pipelines (fine-tuning → inference → deployment)
 - Design and operation of FastAPI-based AI services
-
-- Inference optimization and concurrency control  
-  on local GPU environments
-
+- Inference optimization and concurrency control in local GPU environments
 - Linux-based process, port, and network management
 
 <br><br><br>
 
 ---
 
-## ACHIEVEMENTS
+## TERMINAL
 
-<div align="center">
+~~~bash
+$ whoami
+AI Backend Engineer
 
-Winner – AI Speech Evaluation Competition  
-(Attribute-based Emotion Analysis)
-
-</div>
+$ cat philosophy.txt
+I don't train models.
+I ship them.
+~~~
 
 <br><br><br>
 
@@ -91,8 +90,20 @@ Winner – AI Speech Evaluation Competition
 ## WRITING & LOG
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
+
+<br><br><br>
+
+---
+
+## STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bunhine0452&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hyun00505&show_icons=true&theme=dark&hide_border=true" width="48%" />
+
+</div>
 
 <br><br><br>
 
@@ -100,8 +111,12 @@ Winner – AI Speech Evaluation Competition
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bunhine0452&show_icons=true&theme=dark&bg_color=050505&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Hyun00505&show_icons=true&theme=dark&bg_color=050505&hide_border=true" width="49%" />
+<details>
+<summary>side note</summary>
+
+I use dark mode because bugs are easier to see in the dark.
+
+</details>
 
 </div>
 
