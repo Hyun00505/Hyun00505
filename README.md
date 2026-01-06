@@ -38,7 +38,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [BOJ 1937 욕심쟁이 판다](https://velog.io/@bunhine0452/BOJ-1937-%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4-%ED%8C%90)
+- [Spring Boot JWT 인증 시스템](https://velog.io/@bunhine0452/Spring-Boot-JWT-%EC%9D%B8%EC%A6%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C)
+- [백준 2179 비슷한 단어](https://velog.io/@bunhine0452/%EB%B0%B1%EC%A4%80-2179-%EB%B9%84%EC%8A%B7%ED%95%9C-%EB%8B%A8%EC%96%B4)
+- [프로그래머스 42861  섬 연결하기](https://velog.io/@bunhine0452/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42861-%EC%84%AC-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
+- [프로그래머스 - 네트워크](https://velog.io/@bunhine0452/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
