@@ -182,21 +182,29 @@ Features:
 
 ### Main Account · Hyun00505
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hyun00505&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hyun00505&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=C9D1D9" width="48%" />
+![Hyun00505's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyun00505&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hyun00505&theme=tokyonight&hide_border=true)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun00505&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 <br><br>
 
 ### Sub Account · bunhine0452
 
-<img src="https://github-readme-stats.vercel.app/api?username=bunhine0452&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bunhine0452&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=C9D1D9" width="48%" />
+![bunhine0452's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bunhine0452&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=bunhine0452&theme=tokyonight&hide_border=true)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunhine0452&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 <br><br>
 
-### Contribution Activity
+### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyun00505&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="100%" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyun00505&theme=tokyo-night&hide_border=true)
 
 </div>
 
