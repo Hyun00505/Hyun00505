@@ -37,6 +37,7 @@
 <hr>
 
 ## 📝 Latest Blog Posts
+
 <br>
 <hr>
 
