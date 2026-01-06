@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # 아래 feed_list에 본인의 블로그 RSS 주소를 넣으세요 (예: Velog, Tistory)
-          feed_list: "https://velog.io/@본인아이디/rss"
+          feed_list: "https://velog.io/@bunhine0452/rss"
