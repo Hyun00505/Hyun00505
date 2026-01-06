@@ -2,17 +2,21 @@ name: Update Blog Posts
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 자정 실행
+    - cron: "0 0 * * *"   # 00:00 UTC (한국시간 09:00)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README with latest posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # 아래 feed_list에 본인의 블로그 RSS 주소를 넣으세요 (예: Velog, Tistory)
-          feed_list: "https://v2.velog.io/rss/bunhine0452"
+          feed_list: "https://v2.velog.io/rss/@bunhine0452"
           readme_path: "README.md"
