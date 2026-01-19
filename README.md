@@ -1,41 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=HYUNBIN%20KIM&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Backend%20Engineer%20%C2%B7%20LLM%20Builder&descAlignY=55&descSize=25" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=HYUNBIN%20KIM&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Backend%20Engineer%20%E2%80%A2%20LLM%20Builder&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
-</div>
+<br>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3CDEF7&center=true&vCenter=true&width=600&lines=I+fine-tune+large+language+models;I+deploy+them+to+production;I+build+AI+systems+that+scale;From+research+to+real-world+impact)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+AI+systems+that+understand+language;From+fine-tuning+to+production+deployment)](https://git.io/typing-svg)
+
+<br>
+
+<a href="https://github.com/Hyun00505">
+  <img src="https://img.shields.io/badge/Main-Hyun00505-58a6ff?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/bunhine0452">
+  <img src="https://img.shields.io/badge/Sub-bunhine0452-8b949e?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Hyun00505&color=58a6ff&style=flat-square&label=Visitors"/>
+
 </div>
 
 <br>
 
-<div align="center">
-  
-  ```yaml
-  philosophy:
-    - "I turn models into products"
-    - "From fine-tuning to inference, from API to production"
-    - "Building AI systems that understand language, not just tokens"
-  
-  background:
-    - Creative Writing & Linguistics
-    - End-to-end AI System Design
-  ```
-  
-</div>
+## About Me
 
-<br><br>
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Hyunbin Kim"
+        self.role = "AI Backend Engineer"
+        self.focus = ["LLM Fine-tuning", "Model Deployment", "AI Systems"]
+        self.background = ["Creative Writing", "Linguistics", "System Design"]
+    
+    def mission(self):
+        return "I turn language models into production systems"
+```
 
----
+<br>
 
-<div align="center">
-
-## 🔥 Core Competencies
-
-</div>
+## Tech Stack
 
 <div align="center">
 
@@ -43,30 +44,38 @@
 <tr>
 <td align="center" width="50%">
 
-### 🤖 AI & ML
+### AI & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+
+<br><br>
+
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**LLM Fine-tuning** · LoRA · QLoRA  
-**Model Optimization** · GGUF · llama.cpp  
-**AI Inference** · Concurrency Control
+<br>
+
+`LoRA` `QLoRA` `PEFT` `llama.cpp` `GGUF`
 
 </td>
 <td align="center" width="50%">
 
-### ⚡ Backend & DevOps
+### Backend & DevOps
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring,docker&theme=dark" />
+
+<br><br>
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-**API Design** · REST · WebSocket  
-**GPU Deployment** · Local Infrastructure  
-**System Operations** · Process Management
+<br>
+
+`REST API` `GPU Deployment` `Inference Server`
 
 </td>
 </tr>
@@ -74,165 +83,140 @@
 
 </div>
 
-<br><br>
+<br>
 
----
+## Featured Projects
 
 <div align="center">
 
-## 💡 Featured Projects
+<a href="https://github.com/Hyun00505/Mactuner">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyun00505&repo=Mactuner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+</div>
 
 <br>
 
-<table>
-<tr>
-<td width="100%" valign="top">
+<details>
+<summary><b>🎯 MACtuner - LLM Fine-tuning Made Easy</b></summary>
 
-### 🎯 MACtuner - LLM Fine-tuning Made Easy
-**The easiest way to fine-tune LLMs on Mac · 4⭐**
+<br>
 
-```yaml
-🚀 Core Features:
-  - One-click LLM fine-tuning with LoRA/QLoRA
-  - Mac M-series optimized (MPS acceleration)
-  - Visual workflow editor with React + Electron
-  - HuggingFace integration & GGUF export
-  - RAG pipeline with PDF support
+> **The easiest way to fine-tune LLMs on Mac with Apple Silicon**
 
-💻 Tech Stack:
-  - Backend: FastAPI · PyTorch · Transformers · PEFT
-  - Frontend: React · TypeScript · Electron · TailwindCSS
-  - AI: LLaMA · llama.cpp · Sentence Transformers
+<br>
 
-📦 Highlights:
-  - End-to-end fine-tuning pipeline
-  - Production-ready desktop application
-  - Apache 2.0 licensed
+**Core Features**
+- One-click LLM fine-tuning with LoRA/QLoRA
+- Mac M-series optimized (MPS acceleration)
+- Visual workflow editor with React + Electron
+- HuggingFace integration & GGUF export
+- RAG pipeline with PDF support
+
+**Tech Stack**
+
+| Layer | Technologies |
+|:---:|:---|
+| **Frontend** | React · TypeScript · Electron · TailwindCSS |
+| **Backend** | FastAPI · PyTorch · Transformers · PEFT |
+| **AI** | LLaMA · llama.cpp · Sentence Transformers |
+
+</details>
+
+<details>
+<summary><b>🤖 AI Agent System - Multi-agent Orchestration</b></summary>
+
+<br>
+
+> **Autonomous multi-agent system powered by LLMs**
+
+<br>
+
+**Architecture**
+```
+User Query → Orchestrator → [Agent₁, Agent₂, ... Agentₙ] → Response
+                 ↑________________________________↓
 ```
 
-[→ View Repository](https://github.com/Hyun00505/Mactuner)
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Agent System
-**Multi-agent orchestration with LLM**
-
-```yaml
-Tech Stack:
-  - Large Language Models
-  - FastAPI
-  - RAG (Retrieval-Augmented Generation)
-  - Vector Database
-
-Features:
-  - Autonomous agent coordination
-  - Context-aware responses
-  - Real-time inference
-```
+**Tech Stack**: `LLM` `FastAPI` `RAG` `Vector Database`
 
 [→ View Repository](https://github.com/bunhine0452/agent)
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 🎮 Pressure Project
-**Real-time AI-powered application**
+<details>
+<summary><b>🎮 Pressure Project - Real-time AI Application</b></summary>
 
-```yaml
-Tech Stack:
-  - Spring Boot
-  - WebSocket
-  - GPU Inference
-  - Docker
+<br>
 
-Features:
-  - Real-time processing
-  - Scalable architecture
-  - Production-ready deployment
+> **Real-time AI-powered application with GPU inference**
+
+<br>
+
+**Pipeline**
 ```
+Client ←→ Spring Boot ←→ GPU Inference Engine
+         (WebSocket)
+```
+
+**Tech Stack**: `Spring Boot` `WebSocket` `Docker` `GPU`
 
 [→ View Repository](https://github.com/bunhine0452/pressureproject)
 
-</td>
-</tr>
-</table>
+</details>
 
-</td>
-</tr>
-</table>
+<br>
 
-</div>
-
-<br><br>
-
----
+## GitHub Analytics
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<br>
-
-### Main Account · Hyun00505
-
-![Hyun00505's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyun00505&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=Hyun00505&theme=tokyonight&hide_border=true)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun00505&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=Hyun00505&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun00505&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
 
 <br><br>
 
-### Sub Account · bunhine0452
-
-![bunhine0452's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bunhine0452&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=bunhine0452&theme=tokyonight&hide_border=true)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunhine0452&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<img src="https://streak-stats.demolab.com?user=Hyun00505&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="70%"/>
 
 <br><br>
 
-### 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyun00505&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyun00505&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
 
 </div>
 
-<br><br>
+<br>
 
----
+<details>
+<summary><b>📊 Sub Account Stats (bunhine0452)</b></summary>
+
+<br>
 
 <div align="center">
 
-## ✍️ Latest Blog Posts
+<img src="https://github-readme-stats.vercel.app/api?username=bunhine0452&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunhine0452&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
 
 </div>
+
+</details>
+
+<br>
+
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BOJ 1937 욕심쟁이 판다](https://velog.io/@bunhine0452/BOJ-1937-%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4-%ED%8C%90)
+- [BOJ 1937 욕심쟁이 판다](https://velog.io/@bunhine0452/BOJ-1937-%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4-%ED%8C%90%EB%8B%A4)
 - [Spring Boot JWT 인증 시스템](https://velog.io/@bunhine0452/Spring-Boot-JWT-%EC%9D%B8%EC%A6%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [백준 2179 비슷한 단어](https://velog.io/@bunhine0452/%EB%B0%B1%EC%A4%80-2179-%EB%B9%84%EC%8A%B7%ED%95%9C-%EB%8B%A8%EC%96%B4)
 - [프로그래머스 42861  섬 연결하기](https://velog.io/@bunhine0452/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42861-%EC%84%AC-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
 - [프로그래머스 - 네트워크](https://velog.io/@bunhine0452/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 <!-- BLOG-POST-LIST:END -->
 
-<br><br>
+<br>
 
----
+## Contribution
 
 <div align="center">
-
-## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HYUN00505/HYUN00505/output/github-contribution-grid-snake-dark.svg">
@@ -242,31 +226,28 @@ Features:
 
 </div>
 
-<br><br>
+<br>
 
----
+## Connect
 
 <div align="center">
 
-## 🌐 Connect With Me
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bunhine0452)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<a href="https://github.com/Hyun00505">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://velog.io/@bunhine0452">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 <br>
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Hyun00505&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
+
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
